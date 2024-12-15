@@ -10,6 +10,8 @@ However, Now, a lot of website written in Dynamic change with unstructured data 
 
 ### Technology use in this project
 1. HTML tags structured analysis
+- use beautifulSoup or Scrapy framework for extracting
+- use selenium framework for extracting html tags data 
 
 2. LLM Model 
 - try to use different open LLM models (e.g. LLama3, gemma 2) , prefer use local open LLM models(planning inference LLM model at offline in local machine)
@@ -45,5 +47,7 @@ However, Now, a lot of website written in Dynamic change with unstructured data 
 3. if you used openai for LLM model, add your openai api key to .env file  for enviroment variables 
 
 ### Run Application
+- dev 
+
 - there are several different version of web scarping application with different framework
 
