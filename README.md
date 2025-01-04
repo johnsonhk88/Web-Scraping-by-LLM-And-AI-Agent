@@ -9,6 +9,12 @@ However, Now, a lot of website written in Dynamic change with unstructured data 
 
 
 ### Technology use in this project
+1. Search Engine
+- use search engine to find the website url by keywords
+- both free and paid search engines integrated test for enhanced search capabilities
+- The search engine obtain URL is very important for web scraping application
+- use search engine such as : google serp api , Google Serper, seraxNG , DuckDuckGo Search 
+
 1. HTML tags structured analysis
 - use beautifulSoup or Scrapy framework for extracting
 - use selenium framework for extracting html tags data 
@@ -37,7 +43,7 @@ However, Now, a lot of website written in Dynamic change with unstructured data 
 
 7. FrontEnd UI
 - first version will be used Streamlit for Frontend UI
-- later versions will be Full stack with Backend Restful API
+- later versions will be Full stack with Backend Restful API (such as FastAPI + Re)
 
 
 

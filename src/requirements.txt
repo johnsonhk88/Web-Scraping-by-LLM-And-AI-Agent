@@ -42,3 +42,6 @@ trl
 
 # for audio 
 librosa
+
+# for search engine
+duckduckgo-search
